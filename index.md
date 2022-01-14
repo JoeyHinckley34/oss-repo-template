@@ -4,7 +4,7 @@ Email: hinckj@rpi.edu
   Discord: JoeyHinckley34
 
 ## Bio
-I am a Computer Science and Business Management Dual Major. 
+I am a Computer Science and Business Management Dual Major.  
 In my free time I pole vault for the track team.
 
 ## Lab Reports
