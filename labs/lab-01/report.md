@@ -4,7 +4,7 @@ Need to add screenshot of index.md
 <img width="259" alt="DiscordPost" src="https://user-images.githubusercontent.com/50917542/149561280-c6f0b17a-15b1-421c-a431-543d67ce820a.png">   
 so cute! <br />
 ## Readings <br />
-text  
+text <br />
 ###### 10 criteria of Open Source Definition  
 few sentences  
 ###### Smart Questions - How to ask the question The Smart Way.  
