@@ -1,7 +1,6 @@
 # Open Source Software - Summer 2019
 ## Joey Hinckley
-Email: hinckj@rpi.edu
-Discord: JoeyHinckley34
+Email: hinckj@rpi.edu  Discord: JoeyHinckley34
 
 ## Bio
 I am a Computer Science and Business Management Dual Major. 
