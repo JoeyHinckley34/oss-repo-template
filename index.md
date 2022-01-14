@@ -1,8 +1,9 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Joey Hinckley
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+I am a Computer Science and Business Management Dual Major. 
+In my free time I pole vault for the track team.
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
