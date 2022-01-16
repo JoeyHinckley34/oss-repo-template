@@ -1,5 +1,5 @@
 # Lab 01 Report - Introduction to Open Source Software <br />
-## Index.md Page
+## index.md Page
 <img width="1244" alt="Screen Shot 2022-01-16 at 1 53 28 PM" src="https://user-images.githubusercontent.com/50917542/149673731-bf9ff0d3-9a69-4bba-bc18-71611a837256.png"> <br />
 ## Discord Post: <br />
 <img width="259" alt="DiscordPost" src="https://user-images.githubusercontent.com/50917542/149561280-c6f0b17a-15b1-421c-a431-543d67ce820a.png"> <br />
