@@ -13,3 +13,15 @@ This article was great. The way the author was so blunt and mean to the reader w
 Well form 8-10 sentence paragraph <br />
 ## Man tree: <br />
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/50917542/149566572-22adc24c-3ea2-495d-a662-787342efca00.png"> <br />
+## Regular Expresions: <br />
+<img width="683" alt="Screen Shot 2022-01-16 at 2 46 46 PM" src="https://user-images.githubusercontent.com/50917542/149675443-17ff8ea6-1410-42d9-9653-3a3212efd8b8.png"> <br />
+<img width="694" alt="Screen Shot 2022-01-16 at 2 48 52 PM" src="https://user-images.githubusercontent.com/50917542/149675527-c13ac4ec-6ccd-4e70-9129-dbdb244f34cc.png"> <br />
+<img width="831" alt="Screen Shot 2022-01-16 at 2 52 19 PM" src="https://user-images.githubusercontent.com/50917542/149675633-ae99c26f-dbea-4316-8578-582fc12eeba2.png"> <br />
+<img width="833" alt="Screen Shot 2022-01-16 at 2 54 01 PM" src="https://user-images.githubusercontent.com/50917542/149675690-6dc3206b-8389-4964-81d2-70ffc027030e.png">
+<img width="834" alt="Screen Shot 2022-01-16 at 2 56 58 PM" src="https://user-images.githubusercontent.com/50917542/149675805-09532a02-93a3-439b-8188-e3e3cfa2c16d.png">
+<img width="842" alt="Screen Shot 2022-01-16 at 2 58 17 PM" src="https://user-images.githubusercontent.com/50917542/149675857-cbc61022-2bba-4a33-a8a5-eec5929b448a.png">
+<img width="831" alt="Screen Shot 2022-01-16 at 3 00 33 PM" src="https://user-images.githubusercontent.com/50917542/149675927-dc772855-43f2-46f0-9a90-2428f86cdd60.png">
+
+
+
+
