@@ -6,7 +6,7 @@
 so cute! <br />
 ## Readings <br />
 #### 10 criteria of Open Source Definition <br />
-few sentences <br />
+I was not aware that open source had such a rigorous definition. My understanding that open source software was pretty much any software you can find online. I also liked the part of the article that side open source software needs to have source code! This was funny to me as I thought it to be obvious, but it is definitely a necessity in open source software<br />
 #### Smart Questions - How to ask the question The Smart Way. <br />
 This article was great. The way the author was so blunt and mean to the reader was refreshing to read. My favorite method of asking questions is Grepper. This is a Chrome extension that answers any question you type into google. When asking questions about coding it frequently pulls the top rated answer from stack overflow and shows it to you without having to click on a website. My other favorite way to ask questions is asking my roommates who are non CS. This is beasue they often will look at and solve problems in a different manner than myself.
 #### Chapter 3 of Free Culture <br />
