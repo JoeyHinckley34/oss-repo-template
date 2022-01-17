@@ -22,8 +22,6 @@ Well form 8-10 sentence paragraph <br />
 <img width="842" alt="Screen Shot 2022-01-16 at 2 58 17 PM" src="https://user-images.githubusercontent.com/50917542/149675857-cbc61022-2bba-4a33-a8a5-eec5929b448a.png">
 <img width="831" alt="Screen Shot 2022-01-16 at 3 00 33 PM" src="https://user-images.githubusercontent.com/50917542/149675927-dc772855-43f2-46f0-9a90-2428f86cdd60.png">
 ## Regex Crossword 
-<img width="232" alt="Screen Shot 2022-01-17 at 4 30 42 PM" src="https://user-images.githubusercontent.com/50917542/149838964-35fe56f4-10d4-406e-bb49-36379983a564.png">
-
-
+<img width="1270" alt="Screen Shot 2022-01-17 at 4 31 09 PM" src="https://user-images.githubusercontent.com/50917542/149838996-a5ad8dab-f8db-497a-b1e8-08ac430d26ae.png">
 
 
