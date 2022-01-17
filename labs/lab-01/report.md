@@ -42,4 +42,9 @@ Well form 8-10 sentence paragraph <br />
 6  <br />
 <img width="1208" alt="Screen Shot 2022-01-17 at 4 40 25 PM" src="https://user-images.githubusercontent.com/50917542/149839768-27fb78b4-2704-4a7d-8253-39152c73f559.png">  <br />
 ## Maze game
-<img width="936" alt="Screen Shot 2022-01-17 at 4 54 16 PM" src="https://user-images.githubusercontent.com/50917542/149840867-8116e911-f666-4066-b322-81a7f7b566bf.png">
+<img width="936" alt="Screen Shot 2022-01-17 at 4 54 16 PM" src="https://user-images.githubusercontent.com/50917542/149840867-8116e911-f666-4066-b322-81a7f7b566bf.png"> <br />
+## Open Source Reflectio
+I choose Python Packaging for my open source code to write about. Found here ( http://aosabook.org/en/packaging.html ) <br />
+This caught my eye because I use python a lot for work and thought this may be of some interest. This article interested me beacuse <br />
+Creating a python module seems very doable and something I would consider making. The article spoke on a project about managing all <br />
+a projects depencies automatically. This is not something I have ever had to deal with but maybe this semester ! <br />
