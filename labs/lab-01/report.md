@@ -10,7 +10,7 @@ I was not aware that open source had such a rigorous definition. My understandin
 #### Smart Questions - How to ask the question The Smart Way. <br />
 This article was great. The way the author was so blunt and mean to the reader was refreshing to read. My favorite method of asking questions is Grepper. This is a Chrome extension that answers any question you type into google. When asking questions about coding it frequently pulls the top rated answer from stack overflow and shows it to you without having to click on a website. My other favorite way to ask questions is asking my roommates who are non CS. This is beasue they often will look at and solve problems in a different manner than myself.
 #### Chapter 3 of Free Culture <br />
-Well form 8-10 sentence paragraph <br />
+Reading articles like these makes me upset. Yet another massive coorporation using their enorous pile of money to do wrong. Am I at all suprised? No, his happens all the time. Another example of this is Robert E. Murray, an old CEO of the largest privatley held coal company in America, who would frequently engage in filing lawsuits against journalist who opposed him. These are called SLAPP suits and the prosecutor does not have intentions of winninng just costing the other person thier time and money. For more information on SLAPP suits and Bob Murray here is a link ( https://www.youtube.com/watch?v=UN8bJb8biZU ). Those who have enormous amounts of wealth often use that wealth to target those of a lower socioeconomic status. This article does make me a bit weary about writing code and putting it out for the rest of the world to use, because if I am not careful something like this may happen to me. It is important to create a lisence for code you send out to the rest of the world as well as making sure it cannot be used in ways which are harmful or negative to society. I wish the article touched on how he doing today and whether or no the search engine is still in use. <br />
 ## Man tree: <br />
 <img width="763" alt="image" src="https://user-images.githubusercontent.com/50917542/149566572-22adc24c-3ea2-495d-a662-787342efca00.png"> <br />
 ## Regular Expresions: <br />
@@ -43,8 +43,5 @@ Well form 8-10 sentence paragraph <br />
 <img width="1208" alt="Screen Shot 2022-01-17 at 4 40 25 PM" src="https://user-images.githubusercontent.com/50917542/149839768-27fb78b4-2704-4a7d-8253-39152c73f559.png">  <br />
 ## Maze game
 <img width="936" alt="Screen Shot 2022-01-17 at 4 54 16 PM" src="https://user-images.githubusercontent.com/50917542/149840867-8116e911-f666-4066-b322-81a7f7b566bf.png"> <br />
-## Open Source Reflectio
-I choose Python Packaging for my open source code to write about. Found here ( http://aosabook.org/en/packaging.html ) <br />
-This caught my eye because I use python a lot for work and thought this may be of some interest. This article interested me beacuse <br />
-Creating a python module seems very doable and something I would consider making. The article spoke on a project about managing all <br />
-a projects depencies automatically. This is not something I have ever had to deal with but maybe this semester ! <br />
+## Open Source Reflectiom <br />
+I choose Python Packaging for my open source code to write about. Found here ( http://aosabook.org/en/packaging.html ) This caught my eye because I use python a lot for work and thought this may be of some interest. This article interested me beacuse creating a python module seems very doable and something I would consider making. The article spoke on a project about managing all a projects depencies automatically. This is not something I have ever had to deal with but maybe this semester ! Can not wait to get started \(^o^)// <br />
