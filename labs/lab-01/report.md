@@ -41,3 +41,5 @@ Well form 8-10 sentence paragraph <br />
 <img width="1204" alt="Screen Shot 2022-01-17 at 4 39 14 PM" src="https://user-images.githubusercontent.com/50917542/149839658-d24534e3-c60a-4b24-8af6-2875aa831dfc.png">  <br />
 6  <br />
 <img width="1208" alt="Screen Shot 2022-01-17 at 4 40 25 PM" src="https://user-images.githubusercontent.com/50917542/149839768-27fb78b4-2704-4a7d-8253-39152c73f559.png">  <br />
+## Maze game
+<img width="936" alt="Screen Shot 2022-01-17 at 4 54 16 PM" src="https://user-images.githubusercontent.com/50917542/149840867-8116e911-f666-4066-b322-81a7f7b566bf.png">
