@@ -23,19 +23,19 @@ Well form 8-10 sentence paragraph <br />
 4  <br />
 <img width="833" alt="Screen Shot 2022-01-16 at 2 54 01 PM" src="https://user-images.githubusercontent.com/50917542/149675690-6dc3206b-8389-4964-81d2-70ffc027030e.png">  <br />
 5  <br />
-<img width="834" alt="Screen Shot 2022-01-16 at 2 56 58 PM" src="https://user-images.githubusercontent.com/50917542/149675805-09532a02-93a3-439b-8188-e3e3cfa2c16d.png">
+<img width="834" alt="Screen Shot 2022-01-16 at 2 56 58 PM" src="https://user-images.githubusercontent.com/50917542/149675805-09532a02-93a3-439b-8188-e3e3cfa2c16d.png">  <br />
 6  <br />
-<img width="842" alt="Screen Shot 2022-01-16 at 2 58 17 PM" src="https://user-images.githubusercontent.com/50917542/149675857-cbc61022-2bba-4a33-a8a5-eec5929b448a.png">
+<img width="842" alt="Screen Shot 2022-01-16 at 2 58 17 PM" src="https://user-images.githubusercontent.com/50917542/149675857-cbc61022-2bba-4a33-a8a5-eec5929b448a.png">  <br />
 7  <br />
-<img width="831" alt="Screen Shot 2022-01-16 at 3 00 33 PM" src="https://user-images.githubusercontent.com/50917542/149675927-dc772855-43f2-46f0-9a90-2428f86cdd60.png">
+<img width="831" alt="Screen Shot 2022-01-16 at 3 00 33 PM" src="https://user-images.githubusercontent.com/50917542/149675927-dc772855-43f2-46f0-9a90-2428f86cdd60.png">  <br />
 ## Regex Crossword 
 1  <br />
-<img width="1270" alt="Screen Shot 2022-01-17 at 4 31 09 PM" src="https://user-images.githubusercontent.com/50917542/149838996-a5ad8dab-f8db-497a-b1e8-08ac430d26ae.png">
+<img width="1270" alt="Screen Shot 2022-01-17 at 4 31 09 PM" src="https://user-images.githubusercontent.com/50917542/149838996-a5ad8dab-f8db-497a-b1e8-08ac430d26ae.png">  <br />
 2  <br />
-<img width="1203" alt="Screen Shot 2022-01-17 at 4 32 34 PM" src="https://user-images.githubusercontent.com/50917542/149839120-096edad2-7e46-46fd-a53d-8dc85db6ec2a.png">
+<img width="1203" alt="Screen Shot 2022-01-17 at 4 32 34 PM" src="https://user-images.githubusercontent.com/50917542/149839120-096edad2-7e46-46fd-a53d-8dc85db6ec2a.png">  <br />
 3  <br />
-<img width="1200" alt="Screen Shot 2022-01-17 at 4 33 30 PM" src="https://user-images.githubusercontent.com/50917542/149839186-0857c865-07aa-4c2c-bdd8-205f94b599c6.png">
+<img width="1200" alt="Screen Shot 2022-01-17 at 4 33 30 PM" src="https://user-images.githubusercontent.com/50917542/149839186-0857c865-07aa-4c2c-bdd8-205f94b599c6.png">  <br />
 4  <br />
-<img width="1256" alt="Screen Shot 2022-01-17 at 4 35 08 PM" src="https://user-images.githubusercontent.com/50917542/149839311-7ca368de-1e4a-42b1-a214-f49e337d58a8.png">
+<img width="1256" alt="Screen Shot 2022-01-17 at 4 35 08 PM" src="https://user-images.githubusercontent.com/50917542/149839311-7ca368de-1e4a-42b1-a214-f49e337d58a8.png">  <br />
 
 
