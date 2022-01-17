@@ -24,4 +24,9 @@ Well form 8-10 sentence paragraph <br />
 ## Regex Crossword 
 <img width="1270" alt="Screen Shot 2022-01-17 at 4 31 09 PM" src="https://user-images.githubusercontent.com/50917542/149838996-a5ad8dab-f8db-497a-b1e8-08ac430d26ae.png">
 
+<img width="1203" alt="Screen Shot 2022-01-17 at 4 32 34 PM" src="https://user-images.githubusercontent.com/50917542/149839120-096edad2-7e46-46fd-a53d-8dc85db6ec2a.png">
+
+<img width="1200" alt="Screen Shot 2022-01-17 at 4 33 30 PM" src="https://user-images.githubusercontent.com/50917542/149839186-0857c865-07aa-4c2c-bdd8-205f94b599c6.png">
+
+
 
