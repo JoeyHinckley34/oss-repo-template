@@ -9,6 +9,7 @@ https://github.com/JoeyHinckley34/lab2part1
 cf682bb and recent is for part 1, prior commits are from part 3 <br />
 <img width="525" alt="Screen Shot 2022-01-24 at 7 12 41 PM" src="https://user-images.githubusercontent.com/50917542/150886457-d1fef0cd-c957-43cb-9b05-d02840be1b97.png">
 ## Part 2 <br />
+https://github.com/JoeyHinckley34/Spoon-Knife <br />
 
 ## Part 3 <br />
 https://github.com/BianoBonzo/OSSProjectIdeas
