@@ -10,6 +10,7 @@ cf682bb and recent is for part 1, prior commits are from part 3 <br />
 <img width="525" alt="Screen Shot 2022-01-24 at 7 12 41 PM" src="https://user-images.githubusercontent.com/50917542/150886457-d1fef0cd-c957-43cb-9b05-d02840be1b97.png">
 ## Part 2 <br />
 https://github.com/JoeyHinckley34/Spoon-Knife <br />
-
+Git Branching <br />
+<img width="605" alt="Screen Shot 2022-01-24 at 7 59 38 PM" src="https://user-images.githubusercontent.com/50917542/150890767-5754c510-1ef1-4a1c-aceb-4b4e6980d07c.png"> <br />
 ## Part 3 <br />
 https://github.com/BianoBonzo/OSSProjectIdeas
