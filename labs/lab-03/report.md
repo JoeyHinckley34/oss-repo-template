@@ -32,3 +32,5 @@ Number of lines of code: 52372 <br />
 First commit: Sep 22, 2020 <br />
 Latest commit: Nov 15, 2020 <br />
 Current branches: master <br />
+
+<img width="807" alt="Screen Shot 2022-01-28 at 1 18 35 PM" src="https://user-images.githubusercontent.com/50917542/151600462-abf7c0cf-3f80-476d-ac44-afe4c8a326aa.png">
