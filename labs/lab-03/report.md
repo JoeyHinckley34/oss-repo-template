@@ -25,6 +25,9 @@ origin/dependabot/npm_and_yarn/static-eval-2.1.0 <br />
 origin/dependabot/npm_and_yarn/url-parse-1.5.3 <br />
 origin/dependabot/npm_and_yarn/y18n-4.0.1 <br />
 origin/master <br />
+##### GitStats results: <br />
+<img width="635" alt="Screen Shot 2022-01-28 at 1 29 35 PM" src="https://user-images.githubusercontent.com/50917542/151601915-7c34b672-1c46-4392-b223-134dd4e37ec3.png"> <br />
+
 
 ### Project: 990 https://github.com/bparslow/990 <br />
 Number of contributors: 1 <br />
@@ -32,7 +35,7 @@ Number of lines of code: 52372 <br />
 First commit: Sep 22, 2020 <br />
 Latest commit: Nov 15, 2020 <br />
 Current branches: master <br />
-GitStats results: <br />
+##### GitStats results: <br />
 <img width="646" alt="Screen Shot 2022-01-28 at 1 19 19 PM" src="https://user-images.githubusercontent.com/50917542/151600556-ac8d6d35-9da7-43ba-a6df-088e1ce583b1.png"> <br />
 <img width="807" alt="Screen Shot 2022-01-28 at 1 18 35 PM" src="https://user-images.githubusercontent.com/50917542/151600462-abf7c0cf-3f80-476d-ac44-afe4c8a326aa.png"> <br />
 Everything is the same except GitStats has an extra ~20 lines of code. <br />
