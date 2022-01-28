@@ -10,10 +10,10 @@ Contributors: 31 <br />
 Lines of Code: 42912 <br />
 Initial Commit: Jul 30, 2007 <br />
 Latest Commit: Dec 23, 2015 <br />
-Current branches:
- > origin/HEAD -> origin/master <br />
- > origin/master  <br />
- > origin/web  <br />
+Current branches: <br />
+origin/HEAD -> origin/master <br />
+origin/master  <br />
+origin/web  <br />
 
 ##### Project: 990 https://github.com/bparslow/990 <br />
 Number of contributors: 1 <br />
