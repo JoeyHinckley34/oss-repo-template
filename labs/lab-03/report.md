@@ -30,6 +30,17 @@ origin/master <br />
 <img width="841" alt="Screen Shot 2022-01-28 at 1 32 00 PM" src="https://user-images.githubusercontent.com/50917542/151602222-7b262e45-753a-4b99-a4a3-0279cca9e087.png"> <br />
 
 
+### Prject: 3rs https://github.com/jeffreyceballos/3rs <br />
+Number of contributors: 3 <br />
+Number of lines of code: 1948 <br />
+First commit: Sep 22, 2020 <br />
+Latest commit: Nov 15, 2020 <br />
+Current branches: <br />
+master <br />
+new <br />
+Kinza <br />
+Paul <br />
+
 ### Project: 990 https://github.com/bparslow/990 <br />
 Number of contributors: 1 <br />
 Number of lines of code: 52372 <br />
