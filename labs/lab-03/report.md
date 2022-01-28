@@ -11,20 +11,20 @@ Lines of Code: 42912 <br />
 Initial Commit: Jul 30, 2007 <br />
 Latest Commit: Dec 23, 2015 <br />
 Current branches: <br />
-origin/dependabot/npm_and_yarn/axios-0.21.1
-origin/dependabot/npm_and_yarn/dns-packet-1.3.4
-origin/dependabot/npm_and_yarn/elliptic-6.5.4
-origin/dependabot/npm_and_yarn/eslint-utils-1.4.3
-origin/dependabot/npm_and_yarn/follow-redirects-1.14.7
-origin/dependabot/npm_and_yarn/hosted-git-info-2.8.9
-origin/dependabot/npm_and_yarn/lodash-4.17.21
-origin/dependabot/npm_and_yarn/lodash.defaultsdeep-4.6.1
-origin/dependabot/npm_and_yarn/node-fetch-2.6.7
-origin/dependabot/npm_and_yarn/path-parse-1.0.7
-origin/dependabot/npm_and_yarn/static-eval-2.1.0
-origin/dependabot/npm_and_yarn/url-parse-1.5.3
-origin/dependabot/npm_and_yarn/y18n-4.0.1
-origin/master
+origin/dependabot/npm_and_yarn/axios-0.21.1 <br />
+origin/dependabot/npm_and_yarn/dns-packet-1.3.4 <br />
+origin/dependabot/npm_and_yarn/elliptic-6.5.4 <br />
+origin/dependabot/npm_and_yarn/eslint-utils-1.4.3 <br />
+origin/dependabot/npm_and_yarn/follow-redirects-1.14.7 <br />
+origin/dependabot/npm_and_yarn/hosted-git-info-2.8.9 <br />
+origin/dependabot/npm_and_yarn/lodash-4.17.21 <br />
+origin/dependabot/npm_and_yarn/lodash.defaultsdeep-4.6.1 <br />
+origin/dependabot/npm_and_yarn/node-fetch-2.6.7 <br />
+origin/dependabot/npm_and_yarn/path-parse-1.0.7 <br />
+origin/dependabot/npm_and_yarn/static-eval-2.1.0 <br />
+origin/dependabot/npm_and_yarn/url-parse-1.5.3 <br />
+origin/dependabot/npm_and_yarn/y18n-4.0.1 <br />
+origin/master <br />
 
 ##### Project: 990 https://github.com/bparslow/990 <br />
 Number of contributors: 1 <br />
