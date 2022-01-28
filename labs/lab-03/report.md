@@ -4,7 +4,7 @@
 ## Part 1 <br />
 
 ## Part 2: Community <br />
-
+I am in the quarentine community. Please check our logs in the 'quarentine' discord group chat. <br />
 ### Project Organizer - https://github.com/V2grad/Organizer  <br />
 Contributors: 31 <br />
 Lines of Code: 42912 <br />
