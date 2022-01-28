@@ -11,7 +11,7 @@ Lines of Code: 42912 <br />
 Initial Commit: Jul 30, 2007 <br />
 Latest Commit: Dec 23, 2015 <br />
 Current branches: <br />
-  origin/HEAD -> origin/master <br />
+\torigin/HEAD -> origin/master <br />
   origin/master  <br />
   origin/web  <br />
 
