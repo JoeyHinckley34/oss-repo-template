@@ -5,7 +5,7 @@
 
 ## Part 2: Community <br />
 
-##### Project Organizer - https://github.com/V2grad/Organizer  <br />
+### Project Organizer - https://github.com/V2grad/Organizer  <br />
 Contributors: 31 <br />
 Lines of Code: 42912 <br />
 Initial Commit: Jul 30, 2007 <br />
@@ -26,7 +26,7 @@ origin/dependabot/npm_and_yarn/url-parse-1.5.3 <br />
 origin/dependabot/npm_and_yarn/y18n-4.0.1 <br />
 origin/master <br />
 
-##### Project: 990 https://github.com/bparslow/990 <br />
+### Project: 990 https://github.com/bparslow/990 <br />
 Number of contributors: 1 <br />
 Number of lines of code: 52372 <br />
 First commit: Sep 22, 2020 <br />
