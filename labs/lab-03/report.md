@@ -32,7 +32,8 @@ Number of lines of code: 52372 <br />
 First commit: Sep 22, 2020 <br />
 Latest commit: Nov 15, 2020 <br />
 Current branches: master <br />
-
-<img width="807" alt="Screen Shot 2022-01-28 at 1 18 35 PM" src="https://user-images.githubusercontent.com/50917542/151600462-abf7c0cf-3f80-476d-ac44-afe4c8a326aa.png">
+GitStats results: <br />
 <img width="646" alt="Screen Shot 2022-01-28 at 1 19 19 PM" src="https://user-images.githubusercontent.com/50917542/151600556-ac8d6d35-9da7-43ba-a6df-088e1ce583b1.png">
+<img width="807" alt="Screen Shot 2022-01-28 at 1 18 35 PM" src="https://user-images.githubusercontent.com/50917542/151600462-abf7c0cf-3f80-476d-ac44-afe4c8a326aa.png">
+
 
