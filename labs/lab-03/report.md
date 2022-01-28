@@ -6,7 +6,7 @@
 ## Part 2: Community 
 
 ##### 990 https://github.com/bparslow/990
-Number of contributors: 1
+Number of contributors: 1 <br />
 Number of lines of code:
 First commit:
 Latest commit: 
