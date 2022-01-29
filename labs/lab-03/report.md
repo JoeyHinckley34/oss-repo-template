@@ -49,7 +49,7 @@ origin/tracking-abstraction <br />
 
 ### Prject: 3rs https://github.com/jeffreyceballos/3rs <br />
 Number of contributors: 3 <br />
-<img width="282" alt="Screen Shot 2022-01-28 at 9 59 56 PM" src="https://user-images.githubusercontent.com/50917542/151644752-8f1791f7-0649-4bb1-be76-c8bc18cb7e94.png">
+<img width="282" alt="Screen Shot 2022-01-28 at 9 59 56 PM" src="https://user-images.githubusercontent.com/50917542/151644752-8f1791f7-0649-4bb1-be76-c8bc18cb7e94.png"> <br />
 Number of lines of code: 1948 <br />
 First commit: Feb 1, 2018 <br />
 Latest commit: May 3, 2018 <br />
