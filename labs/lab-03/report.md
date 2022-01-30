@@ -3,6 +3,8 @@
 
 ## Part 1 <br />
 Check out the wiki page to see my project ideas!
+### Latex <br />
+
 ## Part 2: Community <br />
 I am in the quarentine community. Please check our logs in the 'quarentine' discord group chat. <br />
 ### Project Organizer - https://github.com/V2grad/Organizer  <br />
