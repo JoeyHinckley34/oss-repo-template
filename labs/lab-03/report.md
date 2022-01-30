@@ -4,6 +4,7 @@
 ## Part 1 <br />
 Check out the wiki page to see my project ideas!
 ### Latex <br />
+<img width="1275" alt="Screen Shot 2022-01-30 at 2 55 17 PM" src="https://user-images.githubusercontent.com/50917542/151715326-e356203b-0e58-4385-9578-95804c515d0a.png">
 
 ## Part 2: Community <br />
 I am in the quarentine community. Please check our logs in the 'quarentine' discord group chat. <br />
