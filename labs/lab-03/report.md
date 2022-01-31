@@ -9,7 +9,8 @@ Check out the wiki page to see my project ideas!
 ## Part 2: Community <br />
 I am in the quarentine community. Please check our logs in the 'quarentine' discord group chat. <br />
 ### Project Organizer - https://github.com/V2grad/Organizer  <br />
-Contributors: 31 <br />
+Contributors: 4 <br />
+<img width="325" alt="Screen Shot 2022-01-31 at 10 09 15 AM" src="https://user-images.githubusercontent.com/50917542/151818594-96499d22-6e4f-4858-b1b0-4294a753fd2d.png"> <br />
 Lines of Code: 42912 <br />
 Initial Commit: Jul 30, 2007 <br />
 Latest Commit: Dec 23, 2015 <br />
