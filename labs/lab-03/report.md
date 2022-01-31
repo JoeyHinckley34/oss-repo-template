@@ -72,8 +72,7 @@ Kinza <br />
 Paul <br />
 <img width="659" alt="Screen Shot 2022-01-28 at 9 59 13 PM" src="https://user-images.githubusercontent.com/50917542/151644729-dea0e2e4-0997-4469-b263-b6e4b75cfd11.png"> <br />
 <img width="823" alt="Screen Shot 2022-01-28 at 9 58 07 PM" src="https://user-images.githubusercontent.com/50917542/151644690-cfb2224a-7817-49b7-8c7b-4478cff6f644.png"> <br />
-This one puzzled me because of how drastically different the number of contributors were  <br />
-
+This one puzzled me because of how drastically different the number of contributors were, but it can be deduced that those with such little contributions are sometimes ignored by Github. It is also interesting with gitstats to see how many lines where changed over and over  <br />
 
 ### Project: 990 https://github.com/bparslow/990 <br />
 Number of contributors: 1 <br />
