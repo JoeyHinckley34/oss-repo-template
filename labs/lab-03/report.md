@@ -29,9 +29,11 @@ origin/dependabot/npm_and_yarn/static-eval-2.1.0 <br />
 origin/dependabot/npm_and_yarn/url-parse-1.5.3 <br />
 origin/dependabot/npm_and_yarn/y18n-4.0.1 <br />
 origin/master <br />
+
 ##### GitStats results: <br />
 <img width="635" alt="Screen Shot 2022-01-28 at 1 29 35 PM" src="https://user-images.githubusercontent.com/50917542/151601915-7c34b672-1c46-4392-b223-134dd4e37ec3.png"> <br />
 <img width="841" alt="Screen Shot 2022-01-28 at 1 32 00 PM" src="https://user-images.githubusercontent.com/50917542/151602222-7b262e45-753a-4b99-a4a3-0279cca9e087.png"> <br />
+Right away we can see a 20,000 line difference between git ls-files -z | xargs -0 wc -l and gitstats. Also github only is reporting four contribtors while gitstats is showing six.
 
 ### Virtual Tab - https://github.com/marinater/virtual-tab
 Contributors: 2 <br />
