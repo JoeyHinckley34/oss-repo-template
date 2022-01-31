@@ -88,9 +88,6 @@ Everything is the same except GitStats has an extra ~20 lines of code. I found t
 
 
 ### Gource <br />
-#### 990 <br />
-
-
 
 #### 3rs <br />
 gource -1280x720 -o gource.ppm --time-scale 3 <br />
@@ -99,7 +96,22 @@ ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i gource.ppm  -vcodec mpeg4 -b:v 3000
 <img width="861" alt="Screen Shot 2022-01-31 at 4 42 24 PM" src="https://user-images.githubusercontent.com/50917542/151877861-01e43f70-799e-4345-b8ad-c46dcfa5671a.png"> <br />
 Folder structure after running above command. <br />
 
+#### 990 <br />
 command prompt showing both commands being run without error as well as the starting and resulting folder structure
-<img width="1440" alt="Screen Shot 2022-01-31 at 4 55 51 PM" src="https://user-images.githubusercontent.com/50917542/151879624-2b94f64a-a40d-408b-be82-1aa12cfb0d50.png">
+<img width="1440" alt="Screen Shot 2022-01-31 at 4 55 51 PM" src="https://user-images.githubusercontent.com/50917542/151879624-2b94f64a-a40d-408b-be82-1aa12cfb0d50.png"> <br />
+gource output <br />
+<img width="889" alt="Screen Shot 2022-01-31 at 5 01 23 PM" src="https://user-images.githubusercontent.com/50917542/151880271-dde30fef-7372-4153-8153-5feab3cab3b5.png"> <br />
+
+#### Virtual Tab <br />
+command prompt <br />
+<img width="1438" alt="Screen Shot 2022-01-31 at 5 08 48 PM" src="https://user-images.githubusercontent.com/50917542/151881240-d6e23f10-935c-41df-a53f-943b3c34964d.png"> <br />
+gource output <br />
+<img width="841" alt="Screen Shot 2022-01-31 at 5 09 44 PM" src="https://user-images.githubusercontent.com/50917542/151881375-9b3f8da2-17f0-4ce4-9d95-79d74a6a3a67.png"> <br />
+
+#### Project Organizer <br />
+command prompt <br />
+<img width="1422" alt="Screen Shot 2022-01-31 at 5 07 16 PM" src="https://user-images.githubusercontent.com/50917542/151881034-ba8e67b4-7d9e-4753-b342-136225d289db.png"> <br />
+gource output <br />
+<img width="1276" alt="Screen Shot 2022-01-31 at 5 06 05 PM" src="https://user-images.githubusercontent.com/50917542/151880897-0e333b1c-549f-4d3c-b0d8-e1dc29f21ae2.png"> <br />
 
 
