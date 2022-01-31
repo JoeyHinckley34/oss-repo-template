@@ -36,7 +36,8 @@ origin/master <br />
 Right away we can see a 20,000 line difference between git ls-files -z | xargs -0 wc -l and gitstats. Also github only is reporting four contribtors while gitstats is showing six.
 
 ### Virtual Tab - https://github.com/marinater/virtual-tab
-Contributors: 2 <br />
+Contributors: 3 <br />
+<img width="269" alt="Screen Shot 2022-01-31 at 10 27 37 AM" src="https://user-images.githubusercontent.com/50917542/151821767-efb1820d-398e-4482-a7eb-6f00ab2edd6b.png"> <br />
 Lines of code: 3799 <br />
 Initial Commit: Tue Mar 23 12:24:48 2021 <br />
 Latest Commit: Sun May 2 23:59:27 2021 <br />
