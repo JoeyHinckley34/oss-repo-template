@@ -88,6 +88,9 @@ Everything is the same except GitStats has an extra ~20 lines of code. I found t
 
 
 ### Gource <br />
+#### 990 <br />
+
+
 
 #### 3rs <br />
 gource -1280x720 -o gource.ppm --time-scale 3 <br />
@@ -95,4 +98,8 @@ gource -1280x720 -o gource.ppm --time-scale 3 <br />
 ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i gource.ppm  -vcodec mpeg4 -b:v 3000k -s hd480 gource.mp4 <br />
 <img width="861" alt="Screen Shot 2022-01-31 at 4 42 24 PM" src="https://user-images.githubusercontent.com/50917542/151877861-01e43f70-799e-4345-b8ad-c46dcfa5671a.png"> <br />
 Folder structure after running above command. <br />
+
+command prompt showing both commands being run without error as well as the starting and resulting folder structure
+<img width="1440" alt="Screen Shot 2022-01-31 at 4 55 51 PM" src="https://user-images.githubusercontent.com/50917542/151879624-2b94f64a-a40d-408b-be82-1aa12cfb0d50.png">
+
 
