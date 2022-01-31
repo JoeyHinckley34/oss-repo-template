@@ -113,5 +113,4 @@ command prompt <br />
 <img width="1422" alt="Screen Shot 2022-01-31 at 5 07 16 PM" src="https://user-images.githubusercontent.com/50917542/151881034-ba8e67b4-7d9e-4753-b342-136225d289db.png"> <br />
 gource output <br />
 <img width="1276" alt="Screen Shot 2022-01-31 at 5 06 05 PM" src="https://user-images.githubusercontent.com/50917542/151880897-0e333b1c-549f-4d3c-b0d8-e1dc29f21ae2.png"> <br />
-
-
+I liked watching the little person going around editing all the files it was a good time :) <br />
