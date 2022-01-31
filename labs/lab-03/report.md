@@ -87,8 +87,12 @@ Current branches: master <br />
 Everything is the same except GitStats has an extra ~20 lines of code. I found this to be the most similiar as this was the smallest project. <br />
 
 
-### Gource
+### Gource <br />
 
-#### 3rs
-gource -1280x720 -o gource.ppm --time-scale 3
-<img width="1241" alt="Screen Shot 2022-01-31 at 4 30 40 PM" src="https://user-images.githubusercontent.com/50917542/151876322-29cf5e7c-06f5-4e9e-8881-3b990dbbf3c2.png">
+#### 3rs <br />
+gource -1280x720 -o gource.ppm --time-scale 3 <br />
+<img width="1241" alt="Screen Shot 2022-01-31 at 4 30 40 PM" src="https://user-images.githubusercontent.com/50917542/151876322-29cf5e7c-06f5-4e9e-8881-3b990dbbf3c2.png"> <br />
+ffmpeg -y -r 60 -f image2pipe -vcodec ppm -i gource.ppm  -vcodec mpeg4 -b:v 3000k -s hd480 gource.mp4 <br />
+<img width="861" alt="Screen Shot 2022-01-31 at 4 42 24 PM" src="https://user-images.githubusercontent.com/50917542/151877861-01e43f70-799e-4345-b8ad-c46dcfa5671a.png"> <br />
+Folder structure after running above command. <br />
+
