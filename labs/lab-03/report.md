@@ -57,6 +57,7 @@ origin/tracking-abstraction <br />
 ##### GitStats results: <br />
 <img width="654" alt="Screen Shot 2022-01-31 at 10 31 12 AM" src="https://user-images.githubusercontent.com/50917542/151822377-99cf9096-b658-414a-8588-5bc7e0da7ea7.png"> <br />
 <img width="793" alt="Screen Shot 2022-01-31 at 10 31 42 AM" src="https://user-images.githubusercontent.com/50917542/151822446-44d9b296-e9b6-4437-9120-5bbced41bee6.png"> <br />
+Once again we see a different number of lines as well as a differen number of contributors.
 
 ### Prject: 3rs https://github.com/jeffreyceballos/3rs <br />
 Number of contributors: 3 <br />
