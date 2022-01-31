@@ -88,3 +88,7 @@ Everything is the same except GitStats has an extra ~20 lines of code. I found t
 
 
 ### Gource
+
+#### 3rs
+gource -1280x720 -o gource.ppm --time-scale 3
+<img width="1241" alt="Screen Shot 2022-01-31 at 4 30 40 PM" src="https://user-images.githubusercontent.com/50917542/151876322-29cf5e7c-06f5-4e9e-8881-3b990dbbf3c2.png">
