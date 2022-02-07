@@ -23,4 +23,5 @@ I choose [Linux](https://en.wikipedia.org/wiki/Linux) for my project as I am fam
 ## Part 7
 [An open source business model.](https://github.com/JoeyHinckley34/lab4part7)
 
-## Part 8
+## Part 8 [Past RCOS Projects](https://observatory.rcos.io/projects/past)
+
