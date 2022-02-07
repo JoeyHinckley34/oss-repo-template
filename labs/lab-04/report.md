@@ -1,4 +1,4 @@
-# Lab 4
+# Lab 4 Open Source Licensing
 
 ## Part 1
 Added a [LICENSE.md file](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-04/LICENSE)  <br />
