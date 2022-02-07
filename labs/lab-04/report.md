@@ -26,7 +26,8 @@ I choose [Linux](https://en.wikipedia.org/wiki/Linux) for my project as I am fam
 ## Part 8 [Past RCOS Projects](https://observatory.rcos.io/projects/past)
 
 | Website | License Present | License |
-
+| --- | --- | --- |
+| A | B | C |
 
 
 
