@@ -27,7 +27,9 @@ I choose [Linux](https://en.wikipedia.org/wiki/Linux) for my project as I am fam
 
 | Website | License Present | License |
 | --- | --- | --- |
-| A | B | C |
+| A  | B | C |
+| [Boxsplit](https://github.com/nearlyeveryone/boxsplit) | YES | [Do What The F*** You Want To Public License](https://github.com/nearlyeveryone/boxsplit/blob/master/LICENSE) |
+
 
 
 
