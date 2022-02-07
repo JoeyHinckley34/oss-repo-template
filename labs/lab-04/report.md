@@ -29,8 +29,9 @@ I choose [Linux](https://en.wikipedia.org/wiki/Linux) for my project as I am fam
 | --- | --- | --- |
 | [SMAB](https://github.com/seanmiller969/smab)  | YES | [MIT License](https://github.com/SeanMiller969/SMAB/blob/master/LICENSE) |
 | [Boxsplit](https://github.com/nearlyeveryone/boxsplit) | YES | [Do What The F*** You Want To Public License](https://github.com/nearlyeveryone/boxsplit/blob/master/LICENSE) |
+| [Exalender](https://github.com/natsr4/exalendar) | YES | [BSD 2-Clause "Simplified" License](https://github.com/NatSR4/Exalendar/blob/master/LICENSE) |
+| [HowAreYou](https://github.com/nicklczk/howareyou) | YES | [MIT License](https://github.com/nicklczk/HowAreYou/blob/master/LICENSE) |
 | | | |
-
 
 
 
