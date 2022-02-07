@@ -18,9 +18,9 @@ Without a license it is not clear if code is acually free to use. In fact just b
 In general yes, I agree with the sentiement of the article. The web beat out Gopher for a multitude of reasons. What I found to be most convincing was the difference between having internal and external hyperlinks. The external hyperlink system which Gopher employeed required much more work to set up and manage then the internal links available with HTTP. Also Gopher made some poor PR decisions, for example the idea that "Gopher would require the payment of a licensing fee for hosts with a .com domain but not those with an .edu domain," immediately turned away many developers from Gopher and towards the web
 
 ## Part 6 Justify why such a license is chosen based on the history, goals and philosophy of the project
-I choose [Linux](https://en.wikipedia.org/wiki/Linux) for my project as I am familiar with its history as well as have some experience in it. Linux started as a response to MINIX limiting license. Linus Torvalds, the principal author of linux, saw the need for a free operating system as MINIX was only licensed for educational uses. Linux has a [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License) which means everyone has access to the source code and is free to edit and distribute the code as they see fit. 
-
+I choose [Linux](https://en.wikipedia.org/wiki/Linux) for my project as I am familiar with its history as well as have some experience in it. Linux started as a response to MINIX limiting license. Linus Torvalds, the principal author of linux, saw the need for a free operating system as MINIX was only licensed for educational uses. Linux has a [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License) which means everyone has access to the source code and is free to edit and distribute the code as they see fit. This license was choosen because the operating system was born out of a frustration with a restrictive lisence on MINIX, so it makes sense that the license for this project would be a free as possible. Not only does the license make the software free, it is copyleft, which forces all other projects who uses the source code to include the same license. 
 
 ## Part 7
+
 
 ## Part 8
