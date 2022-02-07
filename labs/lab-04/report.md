@@ -27,8 +27,9 @@ I choose [Linux](https://en.wikipedia.org/wiki/Linux) for my project as I am fam
 
 | Website | License Present | License |
 | --- | --- | --- |
-| A  | B | C |
+| [SMAB](https://github.com/seanmiller969/smab)  | YES | [MIT License](https://github.com/SeanMiller969/SMAB/blob/master/LICENSE) |
 | [Boxsplit](https://github.com/nearlyeveryone/boxsplit) | YES | [Do What The F*** You Want To Public License](https://github.com/nearlyeveryone/boxsplit/blob/master/LICENSE) |
+| | | |
 
 
 
