@@ -15,7 +15,7 @@ A license is necessary for telling others what you code is allowed to be used fo
 Without a license it is not clear if code is acually free to use. In fact just because software is freely available does not make it free to use. The original coder may even sue those who use their code and would be in their rights to do so. If one does not want to find themselves in hot water with the law, then one should not use a project that doesn't have an explicit license. <br />
 
 ## Part 5 Do you agree with the claims laid out in [this article](https://ils.unc.edu/callee/gopherpaper.htm)? 
-In general yes, I agree with the sentiement of the article. The web beat out Gopher for a multitude of reasons. What I found to be most convincing was the difference between having internal and external hyperlinks. The external hyperlink system which
+In general yes, I agree with the sentiement of the article. The web beat out Gopher for a multitude of reasons. What I found to be most convincing was the difference between having internal and external hyperlinks. The external hyperlink system which Gopher employeed required much more work to set up and manage then the internal links available with HTTP. Also Gopher made some poor PR decisions, for example the idea that "Gopher would require the payment of a licensing fee for hosts with a .com domain but not those with an .edu domain." This immediately turned away many developers from Gopher and towards the web
 
 ## Part 6
 
