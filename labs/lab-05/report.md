@@ -19,7 +19,7 @@ Build with MathFunctions library <br />
 <img width="512" alt="Screen Shot 2022-02-11 at 1 27 00 PM" src="https://user-images.githubusercontent.com/50917542/153648653-835daa10-e2c0-4dc3-a9ff-008393945e12.png">
 
 Final Versions after completing [Step 2](https://github.com/JoeyHinckley34/oss-repo-template/tree/master/labs/lab-05/Part2): <br />
-[MathFunctions](https://github.com/JoeyHinckley34/oss-repo-template/tree/master/labs/lab-05/Part2/MathFunctions)
+[MathFunctions](https://github.com/JoeyHinckley34/oss-repo-template/tree/master/labs/lab-05/Part2/MathFunctions) <br />
 [CMakeLists.txt](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/Part2/CMakeLists.txt) <br />
 [TutorialConfig.h.in](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/Part2/TutorialConfig.h.in) <br />
 [tutorial.cxx](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/Part2/tutorial.cxx) <br />
