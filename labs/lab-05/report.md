@@ -15,7 +15,7 @@ Final Versions after completing Step 1: <br />
 [tutorial.cxx](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/Part1/tutorial.cxx) <br />
 
 ## Step 2
-Build with MathFunctions library
+Build with MathFunctions library <br />
 <img width="512" alt="Screen Shot 2022-02-11 at 1 27 00 PM" src="https://user-images.githubusercontent.com/50917542/153648653-835daa10-e2c0-4dc3-a9ff-008393945e12.png">
 
 ## Step 3
