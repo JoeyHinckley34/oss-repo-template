@@ -16,7 +16,7 @@ Final Versions after completing [Step 1](https://github.com/JoeyHinckley34/oss-r
 
 ## Step 2
 Build with MathFunctions library <br />
-<img width="512" alt="Screen Shot 2022-02-11 at 1 27 00 PM" src="https://user-images.githubusercontent.com/50917542/153648653-835daa10-e2c0-4dc3-a9ff-008393945e12.png">
+<img width="623" alt="Screen Shot 2022-02-11 at 1 40 01 PM" src="https://user-images.githubusercontent.com/50917542/153650329-7204b043-8ea2-426e-b91c-f5030b240a1d.png">
 
 Final Versions after completing [Step 2](https://github.com/JoeyHinckley34/oss-repo-template/tree/master/labs/lab-05/Part2): <br />
 [MathFunctions](https://github.com/JoeyHinckley34/oss-repo-template/tree/master/labs/lab-05/Part2/MathFunctions) <br />
