@@ -10,9 +10,9 @@ Build with C++ and Version number: <br />
 <img width="791" alt="Screen Shot 2022-02-11 at 12 54 32 PM" src="https://user-images.githubusercontent.com/50917542/153643662-5be1a5c4-0d2f-4a83-8666-ca9d969720b2.png">
 
 Final Versions after completing Step 1: <br />
-[CMakeLists.txt](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/CMakeLists.txt) <br />
-[TutorialConfig.h.in](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/TutorialConfig.h.in) <br />
-[tutorial.cxx](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/tutorial.cxx) <br />
+[CMakeLists.txt](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/Part1/CMakeLists.txt) <br />
+[TutorialConfig.h.in](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/Part1/TutorialConfig.h.in) <br />
+[tutorial.cxx](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-05/Part1/tutorial.cxx) <br />
 
 
 ## Step 2
