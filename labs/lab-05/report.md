@@ -1,12 +1,12 @@
 # Lab 5 Build Systems
 ## Step 1
-Original build:
+Original build: <br />
 <img width="834" alt="Screen Shot 2022-02-11 at 12 40 31 PM" src="https://user-images.githubusercontent.com/50917542/153641439-ff370ee4-d616-4067-b9a8-eef73e51a10f.png">
 
-Edited Code:
+Edited Code: <br />
 <img width="555" alt="Screen Shot 2022-02-11 at 1 00 00 PM" src="https://user-images.githubusercontent.com/50917542/153644549-bdb4a34f-890e-4c56-94f2-a64265be7ae5.png">
 
-Build with C++ and Version number
+Build with C++ and Version number: <br />
 <img width="791" alt="Screen Shot 2022-02-11 at 12 54 32 PM" src="https://user-images.githubusercontent.com/50917542/153643662-5be1a5c4-0d2f-4a83-8666-ca9d969720b2.png">
 
 Final Versions after completing Step 1
