@@ -68,4 +68,8 @@ func insertionSort(_ array: [Int]) -> [Int] {
 }
 '''
 
-
+```swift
+struct Animal {
+    let nickName : String?
+}
+```
