@@ -4,7 +4,7 @@
     <a href="https://docs.google.com/document/d/1TYmwcmCPshZg533ullHsbNp2iognYOkBpRAmSMuhh1w/edit?usp=sharing">here</a>
 </p>
 
-<b>Project 1:<b> [Submitty](https://github.com/Submitty/Submitty) <br />
+<b>Project 1:</b> [Submitty](https://github.com/Submitty/Submitty) <br />
 | Evaluation Factor | Level (0-2) | Evaluation Data |
 | --- | --- | --- |
 |Licensing | 2 | [BSD 3-Clause License](https://github.com/Submitty/Submitty/blob/master/LICENSE.md). A [permissive license](https://choosealicense.com/licenses/bsd-3-clause/) (like MIT License) that forbids the use of the name of any of the developers for the promotion of derived versions without written consent. | 
@@ -18,7 +18,7 @@
 | User Base | 2 | I do not need to look far to find many users using this project, as I have used it every year at RPI and many of my peers have as well. The project also has 293 forks and 348 stars which shows quite a large user base.|
 | Total Score | 16 | Overall this is an amazing open-source project, with an easy and clear guide for developers to come aboard. I just do not know yet if it is the project for me.|
    
-<b>Project 2:<b> [TensorFlow](https://github.com/tensorflow/tensorflow) <br />
+<b>Project 2:</b> [TensorFlow](https://github.com/tensorflow/tensorflow) <br />
 | Evaluation Factor | Level (0-2) | Evaluation Data |
 | --- | --- | --- |
 |Licensing | 2 | [Apache License 2.0](https://github.com/tensorflow/tensorflow/blob/master/LICENSE). A [permissive license](https://choosealicense.com/licenses/apache-2.0/) that calls for the copyright and license notice to be preserved in future versions.| 
@@ -32,7 +32,7 @@
 | User Base | 2 | There are 176,063 users listed on github, also 86.3k forks and 163k stars. This shows just how wide spread this project is  |
 | Total Score | 16 |This project is far too big for me to become a part of. It will take me a while to understand how to use tensorflow, and even long to be able to contribute any meaningful feature to the source code. |
     
- <b>Project 3:<b> [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) <br />
+ <b>Project 3:</b> [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) <br />
 | Evaluation Factor | Level (0-2) | Evaluation Data |
 | --- | --- | --- |
 |Licensing | 2 | [MIT License.](https://github.com/raywenderlich/swift-algorithm-club/blob/master/LICENSE.txt) A permissive lisence which only stipulation is that the copyright and license notice be included in any projects which use a significant portion of the code.| 
@@ -47,7 +47,7 @@
 | Total Score | 16 | This project is not nearly as active as the other two I researched, it is much more in line with what I want to learn this semester. Not only is this repository in the language I am looking for, but also it was made for educational purposes.|
 
 <p align="center"> 
-<b> An In Depth Analysis of Swift Algorithm Club  <b>
+<b> An In Depth Analysis of Swift Algorithm Club  </b>
 </p>
     
 Going into this semester, I wanted to learn a new language and decided that Swift would be that language. I did not want to limit myself by only choosing projects that were in Swift to research, so I picked my favorite Swift project and two others that were drastically different. Of the three projects chosen, Submitty, TensorFlow, and Swift Algorithm Club, the former two received the same sixteen points on the rubric given by the foss2serve rubric. Submitty and TensorFlow both lost points for the same reason. They were too big and in a language I either am unfamiliar with or do not want to work with this semester. On the other hand, Swift Algorithm Club only lost a point for being relatively inactive in the past year. Due to Swift Algorithm Club receiving the highest score as well as being in the language I would like to learn, I chose it for my in-depth analysis.
