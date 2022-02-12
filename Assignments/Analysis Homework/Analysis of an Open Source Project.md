@@ -32,7 +32,20 @@
 | User Base | 2 | There are 176,063 users listed on github, also 86.3k forks and 163k stars. This shows just how wide spread this project is  |
 | Total Score | 16 |This project is far too big for me to become a part of. It will take me a while to understand how to use tensorflow, and even long to be able to contribute any meaningful feature to the source code. |
     
-    
+ <b>Project 3:<b> [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) <br />
+| Evaluation Factor | Level (0-2) | Evaluation Data |
+| --- | --- | --- |
+|Licensing | 2 | | 
+| Language | 1 | |
+| Level of Activity | 2 | |
+| Number of Contributors | 2 |  |
+| Product Size | 1 |  |
+| Issue Tracker | 2 |   |
+| New Contributor | 2 |  |
+| Community Norms | 2 |  |
+| User Base | 2 |   |
+| Total Score | 16 | |
+      
    
 
 
