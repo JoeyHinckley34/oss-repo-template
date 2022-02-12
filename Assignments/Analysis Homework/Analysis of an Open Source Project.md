@@ -73,6 +73,7 @@ let list = [ 10, -1, 3, 9, 2, 27, 8, 5, 1, 3, 0, 26 ]
 insertionSort(list)
 ```
 Calling insertion sort on a list <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The level of depth is not just found in the beginner algorithms, all algorithms have a well-written readme explaining the algorithm as well as how it works in Swift. All in all, the knowledge available in the repository is similar to the knowledge base found in your everyday textbook. The reason behind this is that the owner of the repository, Ray Wenderlich, is an author himself. Ray Wenderlich is the founder of [raywenderlich.com](https://www.raywenderlich.com/) (go figure), which is a coding tutorial website. Not only is he the owner of a teaching website he has written a book on the subject called [Data Structures and Algorithms in Swift](https://www.raywenderlich.com/books/data-structures-algorithms-in-swift). 
 
 
 
