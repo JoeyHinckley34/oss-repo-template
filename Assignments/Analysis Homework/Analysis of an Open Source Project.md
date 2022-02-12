@@ -11,7 +11,7 @@
 | Language | 1 | <img width="328" alt="Screen Shot 2022-02-11 at 9 45 13 PM" src="https://user-images.githubusercontent.com/50917542/153693708-4f3133df-93a9-4201-b22e-b755d4e5f7c0.png"> <br /> I am unfamiliar with PHP and Twig. Also, I am hoping to learn Swift this semester, which is not present in this project. |
 | Level of Activity | 2 | The only week in the past year without a commit was the week of 10/17/21. Overall very active.|
 | Number of Contributors | 2 | [148 Contributors total and 27 listed as still active.](https://github.com/Submitty/Submitty/blob/master/AUTHORS.md) |
-| Product Size | 1 | Running the command: git ls-files -z | xargs -0 wc -l; Yields 756,092 total lines, which is a large codebase|
+| Product Size | 1 | Running the command: git ls-files -z | xargs -0 wc -l <br /> Yields 756,092 total lines, which is a large codebase|
 | Issue Tracker | 2 | 246 issues open and 2,290 closed. The most recent issue opened 3 days ago, and the most recent issue closed 15 days ago. |
 | New Contributor | 2 | There is a whole [page](https://submitty.org/developer) dedicated to new developers coming in.|
 | Community Norms | 2 | There is a well-put-together [website](https://submitty.org/index/overview) to welcome users as well as developers. |
@@ -25,7 +25,7 @@
 | Language | 1 | <img width="334" alt="Screen Shot 2022-02-11 at 9 52 42 PM" src="https://user-images.githubusercontent.com/50917542/153693933-e0facde9-d4ce-494e-9860-e146f49606cf.png"> <br /> Despite being very familiar with C++ and Python, this still is not the best fit. I want to use this semester as an opportunity to learn Swift which is not present in this project. |
 | Level of Activity | 2 | A massive number of commits a week. Averaging 300+ commits every week with the lowest in the past year being 184. |
 | Number of Contributors | 2 | There are 3062 total contributors listed on Github, which is a very large community of contributors. |
-| Product Size | 1 | Running the command: git ls-files -z | xargs -0 wc -l; Yields 6 different totals which in total sum to 5,849,416, which is a massive codebase.|
+| Product Size | 1 | Running the command: git ls-files -z | xargs -0 wc -l <br /> Yields 6 different totals which in total sum to 5,849,416, which is a massive codebase.|
 | Issue Tracker | 2 | There are 2,340 open issues and 31,642 closed. The most recent open was 1 hour ago and the most recent closed was 11 hours ago. Just about as active as you can be. |
 | New Contributor | 2 | There is a tab on their [website](https://www.tensorflow.org/community/contribute/code) dedicated to welcoming new contributors.|
 | Community Norms | 2 | There is a professional [website](https://www.tensorflow.org) dedicated to this project.|
@@ -39,7 +39,7 @@
 | Language | 2 | <img width="331" alt="Screen Shot 2022-02-11 at 10 04 50 PM" src="https://user-images.githubusercontent.com/50917542/153694275-fd8ecff8-b912-4a6f-8f2a-840e1ac97b60.png"> <br /> This project is entirely Swift based and is intended to be educational, which is exactly what I am looking for.|
 | Level of Activity | 1 | Not nearly as active as the other two projects, with just 5 commits in 2021. |
 | Number of Contributors | 2 | There are 256 contributors listed on Github, which shows a well established community. |
-| Product Size | 2 | Running the command: git ls-files -z | xargs -0 wc -l; Yields 276,358 total lines, which is much more manageable of a codebase when compared to the other two projects. |
+| Product Size | 2 | Running the command: git ls-files -z | xargs -0 wc -l <br /> Yields 276,358 total lines, which is much more manageable of a codebase when compared to the other two projects. |
 | Issue Tracker | 2 | Only have 26 issues open and 180 closed. The most recent open was 5 days ago and the most recent closed was Jan 5, 2022. Which is not nearly as active as the other two projects, but not “very low or sporadic” enough to warrant a 1.|
 | New Contributor | 2 | There is a [file](https://github.com/raywenderlich/swift-algorithm-club/blob/master/.github/CONTRIBUTING.md) the repo dedicated to guiding developers through the process of contributing.|
 | Community Norms | 2 | There is a [website](https://aquarchitect.github.io/swift-algorithm-club/) dedicated to the project.|
