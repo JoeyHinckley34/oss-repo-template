@@ -36,7 +36,7 @@
 | Evaluation Factor | Level (0-2) | Evaluation Data |
 | --- | --- | --- |
 |Licensing | 2 | [MIT License.](https://github.com/raywenderlich/swift-algorithm-club/blob/master/LICENSE.txt) A permissive lisence which only stipulation is that the copyright and license notice be included in any projects which use a significant portion of the code.| 
-| Language | 2 | This project is entirely switch-based and is intended to be educational, which is exactly what I am looking for.|
+| Language | 2 | <img width="331" alt="Screen Shot 2022-02-11 at 10 04 50 PM" src="https://user-images.githubusercontent.com/50917542/153694275-fd8ecff8-b912-4a6f-8f2a-840e1ac97b60.png"> <br /> This project is entirely Swift based and is intended to be educational, which is exactly what I am looking for.|
 | Level of Activity | 1 | Not nearly as active as the other two projects, with just 5 commits in 2021. |
 | Number of Contributors | 2 | There are 256 contributors listed on Github, which shows a well established community. |
 | Product Size | 2 | Running the command: git ls-files -z | xargs -0 wc -l; Yields 276,358 total lines, which is much more manageable of a codebase when compared to the other two projects. |
