@@ -54,4 +54,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The first thing I had to do when choosing a project was to ensure there was a license for it guaranteeing it to be either free or open source. Swift Algorithm Club has the [MIT License](https://github.com/raywenderlich/swift-algorithm-club/blob/master/LICENSE.txt) as their chosen license. This license is the standard permissive license. It allows the user nearly full rein to use the software however they please. Since it is a permissive license, it allows for the production and issue of closed source material. There are only two stipulations associated with the MIT License. The first being that if anyone uses the licensed software in a significant way, they are obligated to include the copyright notice and the license with their adapted code base. The second stipulation is there is a limitation on liability and no warranty. Since there is no warranty, there is no guarantee of the quality of the project. By no means does this mean the project was written poorly, but rather, the developers cannot be held accountable in a court of law if the code does not fully do what it is promised. The limitation on liability ensures that if this software or future iterations of it cause any damage, the developers cannot be found legally responsible. More information can be found here.  <br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swift Algorithm Club is a unique open source project in that it is completely centered around a single language. Most open source projects pull in multiple languages. Not only is this project completely centered around a language, it is set up to teach the language. This was optimal for me as I am hoping to learn Swift, so this was a helpful repository to find regardless of this assignment. For all their algorithms they have a detailed explanation of the algorithm itself and then how to implement such an algorithm in Swift. Looking at the simple insertion sort algorithm, they have an entire [readme](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Insertion%20Sort/README.markdown) in markdown explaining in detail how the algorithm works. Starting off with two lists, unsorted and empty, then placing each element from the unsorted list into the empty list in order. Then it explains how to accomplish the same thing with a single list called an in-place sort. Then finally showing how the code works in Swift.  <br />
 
-     
+'''Swift
+func insertionSort(_ array: [Int]) -> [Int] {
+    var sortedArray = array			 // 1
+    for index in 1..<sortedArray.count {		 // 2
+        var currentIndex = index
+        while currentIndex > 0 && sortedArray[currentIndex] < sortedArray[currentIndex - 1] { // 3
+            sortedArray.swapAt(currentIndex - 1, currentIndex)
+            currentIndex -= 1
+        }
+    }
+    return sortedArray
+}
+'''
