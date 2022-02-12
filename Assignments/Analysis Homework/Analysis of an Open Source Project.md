@@ -67,3 +67,17 @@ func insertionSort(_ array: [Int]) -> [Int] {
     return sortedArray
 }
 ```
+<p align="center"> 
+Insertion sort function implemented in Swift
+</p>
+```swift
+let list = [ 10, -1, 3, 9, 2, 27, 8, 5, 1, 3, 0, 26 ]
+insertionSort(list)
+```
+<p align="center"> 
+Calling insertion sort on a list
+</p>
+
+
+
+
