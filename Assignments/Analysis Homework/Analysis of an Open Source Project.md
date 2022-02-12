@@ -35,22 +35,16 @@
  <b>Project 3:<b> [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) <br />
 | Evaluation Factor | Level (0-2) | Evaluation Data |
 | --- | --- | --- |
-|Licensing | 2 | | 
-| Language | 1 | |
-| Level of Activity | 2 | |
-| Number of Contributors | 2 |  |
-| Product Size | 1 |  |
-| Issue Tracker | 2 |   |
-| New Contributor | 2 |  |
-| Community Norms | 2 |  |
-| User Base | 2 |   |
-| Total Score | 16 | |
-      
-   
+|Licensing | 2 | [MIT License.](https://github.com/raywenderlich/swift-algorithm-club/blob/master/LICENSE.txt) A permissive lisence which only stipulation is that the copyright and license notice be included in any projects which use a significant portion of the code.| 
+| Language | 2 | This project is entirely switch-based and is intended to be educational, which is exactly what I am looking for.|
+| Level of Activity | 1 | Not nearly as active as the other two projects, with just 5 commits in 2021. |
+| Number of Contributors | 2 | There are 256 contributors listed on Github, which shows a well established community. |
+| Product Size | 2 | Running the command: git ls-files -z | xargs -0 wc -l; Yields 276,358 total lines, which is much more manageable of a codebase when compared to the other two projects. |
+| Issue Tracker | 2 | Only have 26 issues open and 180 closed. The most recent open was 5 days ago and the most recent closed was Jan 5, 2022. Which is not nearly as active as the other two projects, but not “very low or sporadic” enough to warrant a 1.|
+| New Contributor | 2 | There is a [file](https://github.com/raywenderlich/swift-algorithm-club/blob/master/.github/CONTRIBUTING.md) the repo dedicated to guiding developers through the process of contributing.|
+| Community Norms | 2 | There is a [website](https://aquarchitect.github.io/swift-algorithm-club/) dedicated to the project.|
+| User Base | 2 | There are 4.7k forks and 25.9k stars on the repo in github, which shows this project is quite popular, as well as having a whole [book](https://www.raywenderlich.com/books/data-structures-algorithms-in-swift) associated with the topic. |
+| Total Score | 16 | This project is not nearly as active as the other two I researched, it is much more in line with what I want to learn this semester. Not only is this repository in the language I am looking for, but also it was made for educational purposes.|
 
-
-
-    
-    
-    
-    
+     
+     
