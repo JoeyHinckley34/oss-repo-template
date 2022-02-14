@@ -33,5 +33,8 @@ Build with edits <br />
 [Part 3 Files](https://github.com/JoeyHinckley34/oss-repo-template/tree/master/labs/lab-05/Part3) <br />
 
 ## Step 4
+Build with tests
+<img width="786" alt="Screen Shot 2022-02-14 at 12 10 24 PM" src="https://user-images.githubusercontent.com/50917542/153912333-d8de036f-7f24-4957-ae21-546742373cfd.png">
+
 
 ## Step 5
