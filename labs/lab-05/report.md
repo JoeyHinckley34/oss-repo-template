@@ -26,6 +26,14 @@ Final Versions after completing [Step 2](https://github.com/JoeyHinckley34/oss-r
 
 ## Step 3
 
+Build with edits <br />
+<img width="787" alt="Screen Shot 2022-02-14 at 10 27 15 AM" src="https://user-images.githubusercontent.com/50917542/153893235-60cec8e5-aca1-4a59-8b20-7de8dd2f2076.png"> <br />
+
+
+
+
+
+
 ## Step 4
 
 ## Step 5
