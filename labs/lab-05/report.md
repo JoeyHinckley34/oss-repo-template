@@ -42,5 +42,5 @@ Build with tests <br />
 Build with log and exp <br />
 <img width="539" alt="Screen Shot 2022-02-14 at 1 13 30 PM" src="https://user-images.githubusercontent.com/50917542/153922174-7ad9fff1-05c7-4cfe-9b47-cc07f4b87b4b.png"> <br />
 
-[Part 5 Files]()<br />
+[Part 5 Files](https://github.com/JoeyHinckley34/oss-repo-template/tree/master/labs/lab-05/Part5)<br />
 
