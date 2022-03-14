@@ -10,3 +10,4 @@ I changed the output so it looked cleaner and fits in one page
 ### 5 letter words ingoring order
 <img width="456" alt="Screen Shot 2022-03-14 at 7 09 41 PM" src="https://user-images.githubusercontent.com/50917542/158275393-425cf53f-d15b-426c-aacf-ef6f26a61c88.png">
 [Link to Code](https://github.com/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-06/Part3/plot_words.py) <br />
+[Link to Code](/JoeyHinckley34/oss-repo-template/blob/master/labs/lab-06/Part3/plot_words.py) <br />
