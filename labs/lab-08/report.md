@@ -12,9 +12,9 @@ Successful build <br />
 
 
 ### Part 2
-Nghtly <br /> 
+Nghtly Test<br /> 
 <img width="1409" alt="Screen Shot 2022-03-26 at 7 35 04 PM" src="https://user-images.githubusercontent.com/50917542/160260528-33e97d91-e8d2-4cc5-bb9c-246b35aff021.png"> <br />
+Nightly usage graph <br />
 <img width="881" alt="Screen Shot 2022-03-26 at 7 33 39 PM" src="https://user-images.githubusercontent.com/50917542/160260509-1e022158-88d9-4e65-b05f-b99175073ba5.png"> <br />
-
-Expiremental <br />
+Expiremental Test<br />
 <img width="1411" alt="Screen Shot 2022-03-26 at 7 34 29 PM" src="https://user-images.githubusercontent.com/50917542/160260518-85d95d9f-c822-4f3d-972d-82ae90e3ec4b.png">
