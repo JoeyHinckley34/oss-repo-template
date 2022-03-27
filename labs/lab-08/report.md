@@ -32,4 +32,9 @@ ctest -D Experimental -I 11,30 <br />
 <img width="524" alt="Screen Shot 2022-03-26 at 8 00 59 PM" src="https://user-images.githubusercontent.com/50917542/160261001-f24fee5b-67f5-4a46-9352-66f84a2eef71.png"> <br />
 <img width="805" alt="Screen Shot 2022-03-26 at 8 01 10 PM" src="https://user-images.githubusercontent.com/50917542/160261007-b7cee05a-74cf-4a77-bd29-f8f3e47a590a.png"> <br />
 
+### Part 3
+<img width="872" alt="Screen Shot 2022-03-26 at 8 07 24 PM" src="https://user-images.githubusercontent.com/50917542/160261122-ad1ddc8e-6e2e-47cf-a546-129813ffd9b6.png"> <br />
+Fixing the date to 2022 gives us all tests passed <br />
+<img width="537" alt="Screen Shot 2022-03-26 at 8 11 35 PM" src="https://user-images.githubusercontent.com/50917542/160261193-aa4ae161-544f-4647-b511-6ae3a8a72996.png">  <br />
+
 
