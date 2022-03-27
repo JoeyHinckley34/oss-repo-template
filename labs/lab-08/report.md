@@ -27,7 +27,9 @@ This tells you exactly whats being tested and what failed.  <br />
 This is the change that caused the error.  <br />
 This is cmake for xcode which is showing no errors or any failed tests at the moment <br />
 <img width="415" alt="Screen Shot 2022-03-26 at 7 42 41 PM" src="https://user-images.githubusercontent.com/50917542/160260685-eecc89c8-417c-477f-8e2d-6a0c358b2d85.png">
-
-
+Output of: <br />
+ctest -D Experimental -I 11,30 <br />
+<img width="524" alt="Screen Shot 2022-03-26 at 8 00 59 PM" src="https://user-images.githubusercontent.com/50917542/160261001-f24fee5b-67f5-4a46-9352-66f84a2eef71.png"> <br />
+<img width="805" alt="Screen Shot 2022-03-26 at 8 01 10 PM" src="https://user-images.githubusercontent.com/50917542/160261007-b7cee05a-74cf-4a77-bd29-f8f3e47a590a.png"> <br />
 
 
