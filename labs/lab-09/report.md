@@ -13,3 +13,11 @@ Running ubuntu <br />
 cowsay in /usr/games in ubuntu <br />
 <img width="274" alt="Screen Shot 2022-03-28 at 10 14 14 PM" src="https://user-images.githubusercontent.com/50917542/160519019-bf3f91d0-b893-48a8-98ae-ed7352646886.png">
 <br />
+### Part 2
+rocket chat and mango 3.2 running <br />
+<img width="1125" alt="Screen Shot 2022-03-28 at 10 19 42 PM" src="https://user-images.githubusercontent.com/50917542/160519611-8e0fabb6-cfb2-4e37-b373-b3d560178153.png">
+<br />
+docker ps after all containers have stopped running <br />
+<img width="540" alt="Screen Shot 2022-03-28 at 10 22 28 PM" src="https://user-images.githubusercontent.com/50917542/160519927-6bdf6fbb-dc9a-46c9-bd88-bec616aee2c2.png">
+<br />
+### Part 3
