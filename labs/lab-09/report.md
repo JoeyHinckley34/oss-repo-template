@@ -10,3 +10,6 @@ Running ubuntu <br />
  A new test file in the root directory after running 'apt install vim' <br />
 <img width="244" alt="Screen Shot 2022-03-28 at 10 04 01 PM" src="https://user-images.githubusercontent.com/50917542/160517824-798d596c-b504-45c6-baef-67d3fb9eb76d.png">
 <br />
+cowsay in /usr/games in ubuntu <br />
+<img width="274" alt="Screen Shot 2022-03-28 at 10 14 14 PM" src="https://user-images.githubusercontent.com/50917542/160519019-bf3f91d0-b893-48a8-98ae-ed7352646886.png">
+<br />
