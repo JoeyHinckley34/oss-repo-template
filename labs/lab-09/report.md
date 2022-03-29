@@ -29,5 +29,8 @@ Able to run webpage when not using 5000:5000 but the page is blank :/<br />
 ### Part 4
 Successful message-app build <br />
 <img width="1030" alt="Screen Shot 2022-03-28 at 11 03 51 PM" src="https://user-images.githubusercontent.com/50917542/160524720-d0f20337-0cda-4f8d-a842-907cb4fc1f21.png"> <br />
-
+docker-compose build successful <br />
+<img width="1023" alt="Screen Shot 2022-03-28 at 11 09 41 PM" src="https://user-images.githubusercontent.com/50917542/160525356-b999984c-6326-46f9-b607-42ca35c9f57f.png"> <br />
+using docker-compose up yielded this error :/ <br />
+<img width="661" alt="Screen Shot 2022-03-28 at 11 08 56 PM" src="https://user-images.githubusercontent.com/50917542/160525272-d939513a-e14c-49e4-86fa-8677c8100bdb.png"> <br />
 
