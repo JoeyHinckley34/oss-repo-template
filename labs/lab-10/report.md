@@ -41,7 +41,12 @@ hello-world and hello-replication have the same number of docs <br />
 <img width="1223" alt="Screen Shot 2022-04-04 at 10 41 23 PM" src="https://user-images.githubusercontent.com/50917542/161668451-bbd3965f-c74f-4a06-83a8-a5590dabea36.png"> <br />
 
 ## Step 3
+Step 1.7.1
 <img width="910" alt="Screen Shot 2022-04-04 at 11 02 20 PM" src="https://user-images.githubusercontent.com/50917542/161670602-e923e162-7e73-4c54-9fc3-6ea1c62f46b0.png">
+
+<img width="898" alt="Screen Shot 2022-04-04 at 11 08 51 PM" src="https://user-images.githubusercontent.com/50917542/161671232-e2f89a07-21ba-4051-890b-fe9e38d91053.png">
+
+<img width="747" alt="Screen Shot 2022-04-04 at 11 09 54 PM" src="https://user-images.githubusercontent.com/50917542/161671332-96aa0e38-e716-4d24-a921-b5259126c7a1.png">
 
 
 
