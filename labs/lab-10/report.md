@@ -74,8 +74,14 @@ curl -vX POST http://admin:stickynotes2022@127.0.0.1:5984/_replicate \ <br />
 <img width="717" alt="Screen Shot 2022-04-04 at 11 41 19 PM" src="https://user-images.githubusercontent.com/50917542/161674427-3beee0b4-5fa7-4c00-8640-dc68e9e74178.png"> <br />
 
 ## Step 4
-
-
+1 <br />
+<img width="1112" alt="Screen Shot 2022-04-04 at 11 46 10 PM" src="https://user-images.githubusercontent.com/50917542/161674858-8bd482eb-b67e-4b96-a047-287a66ac04f0.png"> <br />
+2 <br />
+<img width="1109" alt="Screen Shot 2022-04-04 at 11 48 24 PM" src="https://user-images.githubusercontent.com/50917542/161675156-047b9e10-86ba-474b-8f2f-6299b107678c.png"> <br />
+3 <br />
+<img width="822" alt="Screen Shot 2022-04-04 at 11 50 19 PM" src="https://user-images.githubusercontent.com/50917542/161675307-7c99b644-ca46-4d26-bcda-f4b68ea281cb.png">
+4 <br />
+<img width="1113" alt="Screen Shot 2022-04-04 at 11 51 14 PM" src="https://user-images.githubusercontent.com/50917542/161675405-c7fd6119-46db-4f22-8dbb-e3b4f9f3c4d2.png"> <br />
 
 
 
