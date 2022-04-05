@@ -9,5 +9,12 @@ curl http://127.0.0.1:5984/ <br />
 <img width="891" alt="Screen Shot 2022-04-04 at 10 02 28 PM" src="https://user-images.githubusercontent.com/50917542/161664561-d8df281a-ff4f-4d93-bac1-86ba7a75b6a2.png"> <br />
 
  curl -X GET http://admin:stickynotes2022@127.0.0.1:5984/_all_dbs <br />
+ <img width="689" alt="Screen Shot 2022-04-04 at 10 18 19 PM" src="https://user-images.githubusercontent.com/50917542/161666166-e242732d-285a-44c5-9c33-3195c990b21f.png"> <br />
  
-<img width="898" alt="Screen Shot 2022-04-04 at 10 15 24 PM" src="https://user-images.githubusercontent.com/50917542/161665860-e71e3b2c-5354-483e-bb51-b5911c14737d.png">
+ curl -X PUT http://admin:password@127.0.0.1:5984/baseball  <br />
+<img width="704" alt="Screen Shot 2022-04-04 at 10 19 21 PM" src="https://user-images.githubusercontent.com/50917542/161666253-49442eb6-3829-4675-9369-3b7bed4c0639.png"> <br />
+
+
+curl -X PUT http://admin:stickynotes2022@127.0.0.1:5984//plankton  <br />
+curl -X GET http://admin:stickynotes2022@127.0.0.1:5984/_all_dbs   <br />
+<img width="673" alt="Screen Shot 2022-04-04 at 10 20 18 PM" src="https://user-images.githubusercontent.com/50917542/161666352-e840cbb7-9b3f-43a1-a5a7-e71cd80a56a7.png">   <br />
