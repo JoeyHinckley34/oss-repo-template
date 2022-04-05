@@ -23,3 +23,16 @@ curl -X GET http://admin:stickynotes2022@127.0.0.1:5984/_all_dbs   <br />
 curl -X DELETE http://admin:stickynotes2022@127.0.0.1:5984//plankton <br />
 curl -X GET http://admin:stickynotes2022@127.0.0.1:5984/_all_dbs   <br />
 <img width="723" alt="Screen Shot 2022-04-04 at 10 22 19 PM" src="https://user-images.githubusercontent.com/50917542/161666528-b32b75f1-fe67-42c4-bc1c-d47125e1d174.png"> <br />
+
+http://127.0.0.1:5984/_utils/
+<img width="1440" alt="Screen Shot 2022-04-04 at 10 25 29 PM" src="https://user-images.githubusercontent.com/50917542/161666835-7838feb4-59de-48e5-acf6-452b2318c051.png">
+
+
+<img width="1144" alt="Screen Shot 2022-04-04 at 10 27 27 PM" src="https://user-images.githubusercontent.com/50917542/161667024-6148ddbb-36b3-4589-ab1b-7ee5b8a66c74.png">
+
+<img width="1361" alt="Screen Shot 2022-04-04 at 10 37 27 PM" src="https://user-images.githubusercontent.com/50917542/161668082-693657f8-c4f2-45a5-aa27-544105f61363.png">
+
+
+
+
+
