@@ -73,6 +73,7 @@ curl -vX POST http://admin:stickynotes2022@127.0.0.1:5984/_replicate \ <br />
      -H "Content-Type: application/json" <br />
 <img width="717" alt="Screen Shot 2022-04-04 at 11 41 19 PM" src="https://user-images.githubusercontent.com/50917542/161674427-3beee0b4-5fa7-4c00-8640-dc68e9e74178.png"> <br />
 
+## Step 4
 
 
 
