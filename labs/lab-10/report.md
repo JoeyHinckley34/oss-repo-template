@@ -1,10 +1,10 @@
 # Database Lab
 
-### Step 1
+## Step 1
 http://localhost:5984/ <br />
 <img width="1436" alt="Screen Shot 2022-04-04 at 9 58 08 PM" src="https://user-images.githubusercontent.com/50917542/161664171-dc62271d-f888-468c-9f7e-9213b9028831.png"> <br />
 
-### Step 2
+## Step 2
 curl http://127.0.0.1:5984/ <br />
 <img width="891" alt="Screen Shot 2022-04-04 at 10 02 28 PM" src="https://user-images.githubusercontent.com/50917542/161664561-d8df281a-ff4f-4d93-bac1-86ba7a75b6a2.png"> <br />
 
@@ -40,5 +40,5 @@ replication complete <br />
 hello-world and hello-replication have the same number of docs <br />
 <img width="1223" alt="Screen Shot 2022-04-04 at 10 41 23 PM" src="https://user-images.githubusercontent.com/50917542/161668451-bbd3965f-c74f-4a06-83a8-a5590dabea36.png"> <br />
 
-
+## Step 3
 
