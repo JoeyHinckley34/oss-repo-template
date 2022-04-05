@@ -56,6 +56,19 @@ curl -X PUT http://admin:password@127.0.0.1:5984/albums/6e1295ed6c29495e54cc0594
 curl -X GET http://admin:stickynotes2022@127.0.0.1:5984/albums/6e1295ed6c29495e54cc05947f18c8af  <br />
 <img width="902" alt="Screen Shot 2022-04-04 at 11 23 33 PM" src="https://user-images.githubusercontent.com/50917542/161672652-1a80ea84-5b61-449b-8c7e-780849df9160.png">  <br />
 
+curl -X PUT http://admin:stickynotes2022@127.0.0.1:5984/albums/6e1295ed6c29495e54cc05947f18c8af \
+     -d '{"title":"There is Nothing Left to Lose","artist":"Foo Fighters","year":"1997"}' <br />
+<img width="938" alt="Screen Shot 2022-04-04 at 11 33 37 PM" src="https://user-images.githubusercontent.com/50917542/161673571-129e6c63-d389-483f-a629-4a565fe3da0e.png"> <br />
+
+curl -vX PUT http://admin:stickynotes2022@127.0.0.1:5984/albums/70b50bfa0a4b3aed1f8aff9e92dc16a0 \
+     -d '{"title":"Blackened Sky","artist":"Biffy Clyro","year":2002}' <br />
+<img width="922" alt="Screen Shot 2022-04-04 at 11 37 24 PM" src="https://user-images.githubusercontent.com/50917542/161674039-c32d21b6-848d-4ad4-a7bd-6d4493e7d7b0.png"> <br />
+
+curl http://admin:password@127.0.0.1:5984/albums/6e1295ed6c29495e54cc05947f18c8af <br />
+<img width="1075" alt="Screen Shot 2022-04-04 at 11 39 36 PM" src="https://user-images.githubusercontent.com/50917542/161674220-4501271c-8c43-45af-8bd9-2fbd5104f5d9.png"> <br />
+
+
+<img width="717" alt="Screen Shot 2022-04-04 at 11 41 19 PM" src="https://user-images.githubusercontent.com/50917542/161674427-3beee0b4-5fa7-4c00-8640-dc68e9e74178.png">
 
 
 
