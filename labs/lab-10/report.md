@@ -24,15 +24,21 @@ curl -X DELETE http://admin:stickynotes2022@127.0.0.1:5984//plankton <br />
 curl -X GET http://admin:stickynotes2022@127.0.0.1:5984/_all_dbs   <br />
 <img width="723" alt="Screen Shot 2022-04-04 at 10 22 19 PM" src="https://user-images.githubusercontent.com/50917542/161666528-b32b75f1-fe67-42c4-bc1c-d47125e1d174.png"> <br />
 
-http://127.0.0.1:5984/_utils/
-<img width="1440" alt="Screen Shot 2022-04-04 at 10 25 29 PM" src="https://user-images.githubusercontent.com/50917542/161666835-7838feb4-59de-48e5-acf6-452b2318c051.png">
+http://127.0.0.1:5984/_utils/ <br />
+<img width="1440" alt="Screen Shot 2022-04-04 at 10 25 29 PM" src="https://user-images.githubusercontent.com/50917542/161666835-7838feb4-59de-48e5-acf6-452b2318c051.png"> <br />
 
+hello_world db <br />
+<img width="1144" alt="Screen Shot 2022-04-04 at 10 27 27 PM" src="https://user-images.githubusercontent.com/50917542/161667024-6148ddbb-36b3-4589-ab1b-7ee5b8a66c74.png"> <br />
 
-<img width="1144" alt="Screen Shot 2022-04-04 at 10 27 27 PM" src="https://user-images.githubusercontent.com/50917542/161667024-6148ddbb-36b3-4589-ab1b-7ee5b8a66c74.png">
+mango query json view <br />
+<img width="1361" alt="Screen Shot 2022-04-04 at 10 37 27 PM" src="https://user-images.githubusercontent.com/50917542/161668082-693657f8-c4f2-45a5-aa27-544105f61363.png"> <br />
 
-<img width="1361" alt="Screen Shot 2022-04-04 at 10 37 27 PM" src="https://user-images.githubusercontent.com/50917542/161668082-693657f8-c4f2-45a5-aa27-544105f61363.png">
-
-
+new query in table view  <br />
+<img width="1357" alt="Screen Shot 2022-04-04 at 10 38 46 PM" src="https://user-images.githubusercontent.com/50917542/161668210-90728b8a-3e6e-412d-bc4b-41fbc3608072.png"> <br />
+replication complete <br />
+<img width="1370" alt="Screen Shot 2022-04-04 at 10 40 47 PM" src="https://user-images.githubusercontent.com/50917542/161668390-8e68dea3-fc8e-44ed-8740-c8b834b70aa5.png"> <br />
+hello-world and hello-replication have the same number of docs <br />
+<img width="1223" alt="Screen Shot 2022-04-04 at 10 41 23 PM" src="https://user-images.githubusercontent.com/50917542/161668451-bbd3965f-c74f-4a06-83a8-a5590dabea36.png"> <br />
 
 
 
