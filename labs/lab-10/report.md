@@ -53,4 +53,12 @@ curl -vX DELETE http://admin:stickynotes2022@127.0.0.1:5984/albums-backup <br />
 <img width="747" alt="Screen Shot 2022-04-04 at 11 09 54 PM" src="https://user-images.githubusercontent.com/50917542/161671332-96aa0e38-e716-4d24-a921-b5259126c7a1.png"> <br />
 
 
+<img width="902" alt="Screen Shot 2022-04-04 at 11 23 33 PM" src="https://user-images.githubusercontent.com/50917542/161672652-1a80ea84-5b61-449b-8c7e-780849df9160.png">
+
+
+
+
+
+
+
 
