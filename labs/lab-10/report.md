@@ -67,8 +67,11 @@ curl -vX PUT http://admin:stickynotes2022@127.0.0.1:5984/albums/70b50bfa0a4b3aed
 curl http://admin:password@127.0.0.1:5984/albums/6e1295ed6c29495e54cc05947f18c8af <br />
 <img width="1075" alt="Screen Shot 2022-04-04 at 11 39 36 PM" src="https://user-images.githubusercontent.com/50917542/161674220-4501271c-8c43-45af-8bd9-2fbd5104f5d9.png"> <br />
 
-
-<img width="717" alt="Screen Shot 2022-04-04 at 11 41 19 PM" src="https://user-images.githubusercontent.com/50917542/161674427-3beee0b4-5fa7-4c00-8640-dc68e9e74178.png">
+curl -X PUT http://admin:stickynotes2022@127.0.0.1:5984/albums-replica  <br />
+curl -vX POST http://admin:stickynotes2022@127.0.0.1:5984/_replicate \ <br />
+     -d '{"source":"http://127.0.0.1:5984/albums","target":"http://127.0.0.1:5984/albums-replica"}' \ <br />
+     -H "Content-Type: application/json" <br />
+<img width="717" alt="Screen Shot 2022-04-04 at 11 41 19 PM" src="https://user-images.githubusercontent.com/50917542/161674427-3beee0b4-5fa7-4c00-8640-dc68e9e74178.png"> <br />
 
 
 
