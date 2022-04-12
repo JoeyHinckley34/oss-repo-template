@@ -24,7 +24,16 @@ Using the trained model <br />
 Images 9000 + <br />
 <img width="948" alt="Screen Shot 2022-04-11 at 10 41 26 PM" src="https://user-images.githubusercontent.com/50917542/162868638-692c79e9-37ce-441b-9b7b-624aadb1ae8c.png"> <br />
 ## Part 3
+Shirt 1 <br />
 <img width="718" alt="Screen Shot 2022-04-11 at 10 54 57 PM" src="https://user-images.githubusercontent.com/50917542/162870106-b20b3d67-c4c0-4957-adf0-3e1c486e90ca.png"> <br />
+28x28 <br />
+<img width="428" alt="Screen Shot 2022-04-11 at 11 11 51 PM" src="https://user-images.githubusercontent.com/50917542/162872055-cd65c496-13b0-45c4-8348-66a10887e8c0.png"> <br />
+Shirt 2 <br />
 ![image](https://user-images.githubusercontent.com/50917542/162870239-ee70b234-e461-49f4-800e-81369a3abf5c.png) <br />
+<img width="432" alt="Screen Shot 2022-04-11 at 11 11 00 PM" src="https://user-images.githubusercontent.com/50917542/162871955-483093f5-1462-4715-80f7-1568b7984337.png">
+Shirt 3  <br />
 <img width="421" alt="Screen Shot 2022-04-11 at 10 58 16 PM" src="https://user-images.githubusercontent.com/50917542/162870470-01541b62-82c4-4082-829f-b2f9a0d8d9f2.png">  <br />
+28x28 <br />
+<img width="460" alt="Screen Shot 2022-04-11 at 11 11 12 PM" src="https://user-images.githubusercontent.com/50917542/162871976-051b78b5-0d37-4fee-82bd-d8f723634e3d.png"> <br />
+
 
