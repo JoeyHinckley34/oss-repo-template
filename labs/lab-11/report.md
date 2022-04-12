@@ -18,3 +18,6 @@ Verify Predictions <br />
 <img width="610" alt="Screen Shot 2022-04-11 at 10 14 17 PM" src="https://user-images.githubusercontent.com/50917542/162865567-4c7ac046-42f4-4bdf-80c2-f917daaf65c6.png"> <br />
 <img width="608" alt="Screen Shot 2022-04-11 at 10 16 49 PM" src="https://user-images.githubusercontent.com/50917542/162865834-69bfadba-ac42-470f-a542-92f8a6be353c.png"> <br />
 <img width="855" alt="Screen Shot 2022-04-11 at 10 18 19 PM" src="https://user-images.githubusercontent.com/50917542/162866030-e003480d-7312-4e7d-8e49-be78f315cbf7.png"> <br />
+Using the trained model <br />
+<img width="767" alt="Screen Shot 2022-04-11 at 10 27 49 PM" src="https://user-images.githubusercontent.com/50917542/162867099-91b42df6-95a2-4d49-8d01-89a1e0ed2898.png"> <br />
+<img width="528" alt="Screen Shot 2022-04-11 at 10 31 21 PM" src="https://user-images.githubusercontent.com/50917542/162867488-a01dbe49-758b-417e-bac3-2d4ee38724b8.png"> <br />
