@@ -24,4 +24,6 @@ Using the trained model <br />
 Images 9000 + <br />
 <img width="948" alt="Screen Shot 2022-04-11 at 10 41 26 PM" src="https://user-images.githubusercontent.com/50917542/162868638-692c79e9-37ce-441b-9b7b-624aadb1ae8c.png"> <br />
 ## Part 3
+<img width="718" alt="Screen Shot 2022-04-11 at 10 54 57 PM" src="https://user-images.githubusercontent.com/50917542/162870106-b20b3d67-c4c0-4957-adf0-3e1c486e90ca.png">
 
+![image](https://user-images.githubusercontent.com/50917542/162870239-ee70b234-e461-49f4-800e-81369a3abf5c.png)
