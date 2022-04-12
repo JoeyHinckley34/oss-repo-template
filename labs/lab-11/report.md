@@ -30,10 +30,12 @@ Shirt 1 <br />
 <img width="428" alt="Screen Shot 2022-04-11 at 11 11 51 PM" src="https://user-images.githubusercontent.com/50917542/162872055-cd65c496-13b0-45c4-8348-66a10887e8c0.png"> <br />
 Shirt 2 <br />
 ![image](https://user-images.githubusercontent.com/50917542/162870239-ee70b234-e461-49f4-800e-81369a3abf5c.png) <br />
-<img width="432" alt="Screen Shot 2022-04-11 at 11 11 00 PM" src="https://user-images.githubusercontent.com/50917542/162871955-483093f5-1462-4715-80f7-1568b7984337.png">
-Shirt 3  <br />
-<img width="421" alt="Screen Shot 2022-04-11 at 10 58 16 PM" src="https://user-images.githubusercontent.com/50917542/162870470-01541b62-82c4-4082-829f-b2f9a0d8d9f2.png">  <br />
 28x28 <br />
 <img width="460" alt="Screen Shot 2022-04-11 at 11 11 12 PM" src="https://user-images.githubusercontent.com/50917542/162871976-051b78b5-0d37-4fee-82bd-d8f723634e3d.png"> <br />
+Shirt 3  <br />
+<img width="421" alt="Screen Shot 2022-04-11 at 10 58 16 PM" src="https://user-images.githubusercontent.com/50917542/162870470-01541b62-82c4-4082-829f-b2f9a0d8d9f2.png">  <br />
+<img width="432" alt="Screen Shot 2022-04-11 at 11 11 00 PM" src="https://user-images.githubusercontent.com/50917542/162871955-483093f5-1462-4715-80f7-1568b7984337.png"> <br />
+
+
 
 
